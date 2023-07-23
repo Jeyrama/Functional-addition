@@ -10,7 +10,7 @@ Examples:
 */
 
 
-// Solution
+// Solution 
 
 function add(n) {
   return function (m) {
