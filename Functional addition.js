@@ -8,3 +8,6 @@ Examples:
   let addThree = add(3);
   addThree(3); // 6
 */
+
+
+// Solution
