@@ -19,3 +19,9 @@ function add(n) {
 }
 
 // or
+
+const add = (n) => {
+  return (x) => {
+    return n+x;
+  }
+}
